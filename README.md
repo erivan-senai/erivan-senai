@@ -2,7 +2,7 @@
 
 - 💻 Front-End developer
 - 🌱 I am currently learning everything about HTML, CSS, Javascript and React.
--  📍 São Paulo - BR
+- 📍 São Paulo - Brazil
 
 
  <img align="right" src="https://user-images.githubusercontent.com/93286172/139174232-c55c8e5b-0dc0-4458-8621-b464db83ea5f.png" width="250">   
