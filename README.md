@@ -1,6 +1,6 @@
 # Hey, I'm Erivan Oliveira! 👋
 
-- 💻 Front-End developer
+- 💻 FullStack developer
 - 🌱 I am currently learning everything about HTML, CSS, Javascript and React.
 - 📍 São Paulo - Brazil
 
